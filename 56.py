@@ -1,5 +1,5 @@
 class Solution:
-    def merge(self, intervals: List[List[int]]) -> List[List[int]]:
+    def merge(self, intervals) :
         intervals.sort(key = lambda x:x[0])
         res = []
         res.append(intervals[0])
@@ -15,4 +15,4 @@ class Solution:
 
 inp = [[1,3],[2,6],[8,10],[15,18]]
 sol = Solution()
-sol.merge(inp)
+print(sol.merge(inp))
