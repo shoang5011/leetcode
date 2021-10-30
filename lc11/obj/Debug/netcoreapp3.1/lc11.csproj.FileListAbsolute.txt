@@ -1,0 +1,14 @@
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.csproj.AssemblyReference.cache
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.AssemblyInfoInputs.cache
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.AssemblyInfo.cs
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.csproj.CoreCompileInputs.cache
+C:\Users\shoan\github\leetcode\lc11\bin\Debug\netcoreapp3.1\lc11.exe
+C:\Users\shoan\github\leetcode\lc11\bin\Debug\netcoreapp3.1\lc11.deps.json
+C:\Users\shoan\github\leetcode\lc11\bin\Debug\netcoreapp3.1\lc11.runtimeconfig.json
+C:\Users\shoan\github\leetcode\lc11\bin\Debug\netcoreapp3.1\lc11.runtimeconfig.dev.json
+C:\Users\shoan\github\leetcode\lc11\bin\Debug\netcoreapp3.1\lc11.dll
+C:\Users\shoan\github\leetcode\lc11\bin\Debug\netcoreapp3.1\lc11.pdb
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.dll
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.pdb
+C:\Users\shoan\github\leetcode\lc11\obj\Debug\netcoreapp3.1\lc11.genruntimeconfig.cache
